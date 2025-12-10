@@ -40,3 +40,28 @@ AI_Powered_Ventilation/
    │       ├── scheduler.rs │
    │       └── ipc.rs │
    └── README.md  (this file)
+---
+
+## 🚀 Technologies Used
+
+- TensorFlow / Keras  
+- TensorFlow Lite  
+- StandardScaler (scikit-learn)  
+- Rust Programming Language  
+- Embedded systems fundamentals  
+- GitHub Codespaces / Colab  
+
+---
+
+## 📌 High-Level Workflow
+
+1. Collect & preprocess environmental dataset  
+2. Train ANN model → evaluate → export TFLite version  
+3. Develop mini RTOS simulation for embedded task scheduling  
+4. Prepare for ESP32 deployment (future work)
+
+---
+
+## 🙋 Maintainer  
+**Dinesh Kommisetti**  
+GitHub: [dinesh-07-dev](https://github.com/dinesh-07-dev)
