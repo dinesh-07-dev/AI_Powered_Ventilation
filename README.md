@@ -24,22 +24,25 @@ Together, these demonstrate an end-to-end AI + Embedded Systems engineering work
 
 ## 📁 Repository Structure
 
-AI_Powered_Ventilation/ 
-│── ann_model/ |
-├── README.md │   
-   ├── vent_kpi_scaler.pkl │
-   ├── vent_kpi_ann.h5 │
-   ├── vent_kpi_ann_float.tflite │
-   └── training_notebook.ipynb │
-│── mini_rtos_sim/ │
-   ├── README.md │
-   ├── src/ │
-   │   ├── main.rs │
-   │   └── rtos/ │
-   │       ├── task.rs │
-   │       ├── scheduler.rs │
-   │       └── ipc.rs │
-   └── README.md  (this file)
+AI_Powered_Ventilation/
+├── ann_model/
+│   ├── README.md
+│   ├── vent_kpi_scaler.pkl
+│   ├── vent_kpi_ann.h5
+│   ├── vent_kpi_ann_float.tflite
+│   └── training_notebook.ipynb
+│
+├── mini_rtos_sim/
+│   ├── README.md
+│   └── src/
+│       ├── main.rs
+│       └── rtos/
+│           ├── task.rs
+│           ├── scheduler.rs
+│           └── ipc.rs
+│
+└── README.md
+
 ---
 
 ## 🚀 Technologies Used
