@@ -24,6 +24,7 @@ Together, these demonstrate an end-to-end AI + Embedded Systems engineering work
 
 ## 📁 Repository Structure
 
+```text
 AI_Powered_Ventilation/
 ├── ann_model/
 │   ├── README.md
@@ -42,6 +43,7 @@ AI_Powered_Ventilation/
 │           └── ipc.rs
 │
 └── README.md
+
 
 ---
 
